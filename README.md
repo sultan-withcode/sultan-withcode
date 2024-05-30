@@ -1,4 +1,4 @@
-![logo](https://github.com/jack44b/jack44b/blob/main/banner-2.jpg)
+![logo](https://github.com/sultan-withcode/sultan-withcode/blob/main/banner-1.jpg)
 <h1 align="center">Hi 👋, I'm Sultan </h1>
 <h3 align="center">Crafting dynamic web experiences with a passion for innovation.</h3>
 
