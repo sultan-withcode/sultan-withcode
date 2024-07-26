@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **I am a dedicated full-stack web developer with a passion for creating dynamic and user-friendly applications. With a strong foundation in both front-end and back-end development, I specialize in crafting efficient and scalable solutions. My goal is to leverage my skills to deliver high-quality projects that meet and exceed client expectations.**
 
-- 📫 How to reach me **muhammadmurtuza845@gmail.com**
+- 📫 How to reach me **codewithsultan01@gmail.com**
 
 - ⚡ Fun fact **I am so funny**
 
