@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhammad-murtaza-868726289/](https://www.linkedin.com/in/muhammad-murtaza-868726289/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/m-murtaza-868726289/](https://www.linkedin.com/in/m-murtaza-868726289/)
 
 - 💬 Ask me about **I am a dedicated full-stack web developer with a passion for creating dynamic and user-friendly applications. With a strong foundation in both front-end and back-end development, I specialize in crafting efficient and scalable solutions. My goal is to leverage my skills to deliver high-quality projects that meet and exceed client expectations.**
 
